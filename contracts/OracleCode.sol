@@ -1,6 +1,6 @@
 pragma solidity 0.5.12;
 
-import "./provableAPI.sol";
+//import "./provableAPI.sol";
 
 contract sendOracleQuery{
 
